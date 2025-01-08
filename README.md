@@ -36,8 +36,8 @@ Follow these steps to install and configure Airflow, and execute the project:
 Clone the repository to your local machine:
 
 ```bash
-git clone git@bitbucket.org:indiciumtech/airflow_tooltorial.git
-cd airflow_tooltorial
+git clone git@github.com:ThaisBarrosAlvim/AirflowChallenge.git
+cd AirflowChallenge
 ```
 
 ### Step 2: Set Up the Environment
